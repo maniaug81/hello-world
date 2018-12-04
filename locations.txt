@@ -4,3 +4,5 @@ Banguluru
 Chennai
 Hydrabad
 Pune
+Gurgaon
+Delhi
