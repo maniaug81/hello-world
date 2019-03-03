@@ -1,1 +1,2 @@
 this is salary file added
+10000
